@@ -1,0 +1,10 @@
+.root
+{
+    -fx-background-image: url("https://i.pinimg.com/originals/42/3e/7e/423e7e7d510f50a41441dd648cb78f23.jpg");
+    -fx-background-size cover, auto;
+}
+
+.menu-bar
+{
+    -fx-background-color: #CC0011;
+}

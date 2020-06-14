@@ -1,0 +1,12 @@
+.root
+{
+    -fx-base: #607d8b;
+}
+
+.button:pressed{
+
+}
+
+.button:hover{
+    -fx-base: #18ffff;
+}

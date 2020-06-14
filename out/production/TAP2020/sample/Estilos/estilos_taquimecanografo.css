@@ -1,0 +1,68 @@
+.root
+{
+	-fx-base: #90a4ae;
+}
+#btnRow3{
+    -fx-base: #CCCC00;
+    -fx-pref-height: 30;
+    -fx-min-width: 50;
+}
+
+#btnRow3_013{
+    -fx-base: #CCCC00;
+    -fx-pref-height: 30;
+    -fx-min-width: 100;
+}
+
+#hbox-custom3{
+    -fx-background-radius: 5.0;
+    -fx-padding: 2;
+}
+
+#btnRow4{
+    -fx-base: #CCCC00;
+    -fx-pref-height: 30;
+    -fx-min-width: 50;
+}
+
+#btnRow4_012{
+    -fx-base: #CCCC00;
+    -fx-pref-height: 30;
+    -fx-min-width: 125;
+}
+#hbox-custom4{
+    -fx-background-radius: 5.0;
+    -fx-padding: 2;
+}
+
+#btnRow5{
+    -fx-base: #CCCC00;
+    -fx-pref-height: 30;
+    -fx-min-width: 50;
+}
+
+#btnRow5_011{
+    -fx-base: #CCCC00;
+    -fx-pref-height: 30;
+    -fx-min-width: 150;
+}
+#hbox-custom5{
+    -fx-background-radius: 5.0;
+    -fx-padding: 2;
+}
+
+#btnRow6{
+    -fx-base: #CCCC00;
+    -fx-pref-height: 30;
+    -fx-min-width: 50;
+}
+
+#btnRow6_010{
+    -fx-base: #CCCC00;
+    -fx-pref-height: 30;
+    -fx-min-width: 315;
+}
+#hbox-custom6{
+    -fx-background-radius: 5.0;
+    -fx-padding: 2;
+}
